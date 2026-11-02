@@ -1,0 +1,11 @@
+*.woff2 binary
+vendor/* linguist-vendored
+*.gif binary
+*.sh text eol=lf
+dist/* linguist-vendored
+*.yml linguist-detectable=false
+
+public/*.html linguist-vendored
+build/* linguist-vendored  
+
+src/**/*.ts linguist-detectable
