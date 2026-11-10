@@ -1,0 +1,8 @@
+.next/
+yarn-error.log*
+*.tgz
+.env.local
+.DS_Store
+.pnpm-store/
+.cache/
+node_modules/
